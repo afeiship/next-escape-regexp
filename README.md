@@ -22,6 +22,10 @@ const res = nx.escapeRegexp(str);
 // How much \\$ for a 🦄\\?
 ```
 
+## resources 
+- https://www.w3school.com.cn/jsref/jsref_replace.asp
+- https://github.com/sindresorhus/escape-string-regexp
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-escape-regexp/blob/master/LICENSE.txt).
 
