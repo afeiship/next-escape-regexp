@@ -3,7 +3,7 @@
  * description: Escape regexp for string.
  * homepage: https://github.com/afeiship/next-escape-regexp
  * version: 1.0.0
- * date: 2020-11-22 14:18:41
+ * date: 2020-11-22 14:19:17
  * license: MIT
  */
 
